@@ -1,0 +1,1 @@
+By default (if run.bat is ran without modifications), simulation data files files will go here.
